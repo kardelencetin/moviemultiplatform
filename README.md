@@ -20,3 +20,5 @@
 <p>
   <img src="ios-detail.png" width="200"/>
 </p>
+
+resource: The Movie Database (TMDb)
